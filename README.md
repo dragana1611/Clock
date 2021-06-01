@@ -1,2 +1,2 @@
-# SAT
+# CLOCK
 Clock display
